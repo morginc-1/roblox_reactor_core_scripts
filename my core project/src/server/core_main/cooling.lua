@@ -1,1 +1,0 @@
-numbervalue.Instance.new(classname:cooling"numbervalue")
